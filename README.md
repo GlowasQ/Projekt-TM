@@ -80,7 +80,7 @@ Po skalibrowaniu będziemy mogli ważyć przedmioty i odczytywać ich wagę z wy
 
 ## KOD
 
-'''cp
+```cp
 
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>     // potrzebne biblioteki
@@ -185,4 +185,4 @@ val=val/100.0;
 val=val/100.0; 
 lcd.clear();
 }
-'''
+```
