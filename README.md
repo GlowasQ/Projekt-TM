@@ -14,7 +14,7 @@ Zamysłem projektu jest pomiar wagi przedmiotów oraz wyświetlanie jej na wyśw
 * Płytka arduino UNO
 
 
-## Links
+## Linki
 
 [Wyświetlacz + konwerter](https://botland.com.pl/wyswietlacze-alfanumeryczne-i-graficzne/2640-wyswietlacz-lcd-4x20-znakow-niebieski-konwerter-i2c-lcm1602-5904422331061.html?utm_source=skapiec&utm_medium=pricewars2&utm_campaign=wyswietlacz-lcd-4x20-znakow-niebieski-konwerter-i2c-lcm1602)
 
