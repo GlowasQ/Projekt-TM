@@ -49,7 +49,7 @@ WHITE > A-
 GREEN > A+
 ```
 
-W kolejnym kroku łączymy mod HX711 z płytką Aeduino:
+W kolejnym kroku łączymy mod HX711 z płytką Arduino:
 
 ```cpp
 GND > GND
@@ -89,9 +89,9 @@ Po skalibrowaniu będziemy mogli ważyć przedmioty i odczytywać ich wagę z wy
 
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>     // potrzebne biblioteki
-LiquidCrystal_I2C lcd(0x27,20,4);      // deklaracja portu wyswietlacza i jego wilkosci
+LiquidCrystal_I2C lcd(0x27,20,4);      // deklaracja portu wyświetlacza i jego wilkości
  
-#define DT A0         // miejsca gdzie sa podlaczone piny do plytki
+#define DT A0         // miejsca gdzie są podłączone piny do płytki
 #define SCK A1
 
  
@@ -127,10 +127,10 @@ void setup()
 {
 pinMode(SCK, OUTPUT);
 pinMode(sw, INPUT_PULLUP);
-lcd.init();   //wywolanie wyswietlacza
+lcd.init();   //wywolanie wyświetlacza
 lcd.init();
-lcd.backlight();   //zapaleniue tla wyswietlacza
-lcd.print(" Waga ");       // wpisujemy co ma byc na wyswietlaczu
+lcd.backlight();   //zapalenie tła wyświetlacza
+lcd.print(" Waga ");       // wpisujemy co ma byc na wyświetlaczu
 lcd.setCursor(0,1);
 lcd.print(" Jednostka ");
 delay(1000);
