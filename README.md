@@ -1,6 +1,6 @@
 # Projekt
 
-# #Wyświetlanie wagi przedmiotów na ekranie LCD.
+# Wyświetlanie wagi przedmiotów na ekranie LCD.
 
 
 ## Opis
