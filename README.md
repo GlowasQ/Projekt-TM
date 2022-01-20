@@ -34,10 +34,10 @@ https://allegro.pl/oferta/zestaw-startowy-do-arduino-uno-r3-atmega328-ch340-1010
 
 Wyświetlacz LCD lutujemy z konwerterem I2C, a następnie konwerter łączymy z płytką Arduino:
 
-GND > GND 
-VCC > 5V
-SDA > SDA
-SCL > SCL
+GND > GND ;
+VCC > 5V  ;
+SDA > SDA ;
+SCL > SCL ;
 
 Następnie lutujemy belkę tensometryczną z modułem HX711:
 
