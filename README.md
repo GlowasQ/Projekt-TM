@@ -34,24 +34,29 @@ https://allegro.pl/oferta/zestaw-startowy-do-arduino-uno-r3-atmega328-ch340-1010
 
 Wyświetlacz LCD lutujemy z konwerterem I2C, a następnie konwerter łączymy z płytką Arduino:
 
-GND > GND ;
-VCC > 5V  ;
-SDA > SDA ;
-SCL > SCL ;
-
+```cpp
+GND > GND 
+VCC > 5V  
+SDA > SDA 
+SCL > SCL 
+```
 Następnie lutujemy belkę tensometryczną z modułem HX711:
 
+```cpp
 RED   > E+
 BLACK > E-
 WHITE > A-
 GREEN > A+
+```
 
 W kolejnym kroku łączymy mod HX711 z płytką Aeduino:
 
+```cpp
 GND > GND
 DT  > A0
 SCK > A1
 VCC > 5V
+```
 
 Belkę tensometrczyną mocujemy na drewnianych kawałkach aby uzyskać podstawę oraz miejsce do kłądzenia przedmiotów na naszej wadze. 
 Po połączeniu wszyskich elementów powinniśmy uzyskac następujący efekt:
