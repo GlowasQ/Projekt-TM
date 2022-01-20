@@ -16,15 +16,15 @@ Zamysłem projektu jest pomiar wagi przedmiotów oraz wyświetlanie jej na wyśw
 
 ## Links
 
-https://botland.com.pl/wyswietlacze-alfanumeryczne-i-graficzne/2640-wyswietlacz-lcd-4x20-znakow-niebieski-konwerter-i2c-lcm1602-5904422331061.html?utm_source=skapiec&utm_medium=pricewars2&utm_campaign=wyswietlacz-lcd-4x20-znakow-niebieski-konwerter-i2c-lcm1602
+[Wyświetlacz + konwerter](https://botland.com.pl/wyswietlacze-alfanumeryczne-i-graficzne/2640-wyswietlacz-lcd-4x20-znakow-niebieski-konwerter-i2c-lcm1602-5904422331061.html?utm_source=skapiec&utm_medium=pricewars2&utm_campaign=wyswietlacz-lcd-4x20-znakow-niebieski-konwerter-i2c-lcm1602)
 
 ![img](./image/lcd.png)
 
-https://allegro.pl/oferta/modul-hx711-tensometr-belka-tensometryczna-20kg-8277006903?snapshot=MjAyMi0wMS0wOVQyMDowNzoyOS45ODFaO2J1eWVyO2JhOTAyYTUzZmJiZTIzMWFkZjdjZWIyZTUzYmI3MjA4YWZjYjU3YzBmM2I0ZDEzNjEwOGU0MzJhOTlmNmU4ZDA%3D
+[Belka + moduł](https://allegro.pl/oferta/modul-hx711-tensometr-belka-tensometryczna-20kg-8277006903?snapshot=MjAyMi0wMS0wOVQyMDowNzoyOS45ODFaO2J1eWVyO2JhOTAyYTUzZmJiZTIzMWFkZjdjZWIyZTUzYmI3MjA4YWZjYjU3YzBmM2I0ZDEzNjEwOGU0MzJhOTlmNmU4ZDA%3D)
 
 ![img](./image/belka.png)
 
-https://allegro.pl/oferta/zestaw-startowy-do-arduino-uno-r3-atmega328-ch340-10102800766  
+[Płytka](https://allegro.pl/oferta/zestaw-startowy-do-arduino-uno-r3-atmega328-ch340-10102800766 ) 
 
 ![img](./image/uno.png)
 
